@@ -8,5 +8,5 @@ class WordsTest < ApplicationSystemTestCase
   #   click_on "Play"
 
   #   assert_text "Sorry but BI can't be built out of #{@letters.join(', ')}."
-  end
+  # end
 end
